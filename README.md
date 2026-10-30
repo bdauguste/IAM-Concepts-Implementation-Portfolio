@@ -31,9 +31,9 @@ are most confident explaining.
 
 ---
 
-## What This Portfolio Shows
+## What This Portfolio Demonstrates
 
-I built a complete IAM environment from scratch using midPoint (IGA), a simulated HR source, OpenLDAP (target directory), and Auth0 (access management and federation). The environment runs locally and replicates how IAM works on a real enterprise engagement, from HR-triggered identity lifecycle through governance and certification, to customer identity and federation with live protocols.
+I built a complete IAM environment from nothing using midPoint (IGA), a simulated HR source, OpenLDAP (target directory), and Auth0 (access management and federation). The environment currently runs locally and replicates how IAM works on a real enterprise engagement, from HR-triggered identity lifecycle through governance and certification, to customer identity and federation with live protocols.
 
 This repository documents my configuration, architectural decisions, and analysis for each capability I built. It is intended as portfolio evidence for IAM implementation and engineering roles.
 
